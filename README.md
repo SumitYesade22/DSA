@@ -13,4 +13,5 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/SumitYesade22/DSA/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/SumitYesade22/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
