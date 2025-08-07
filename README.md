@@ -19,6 +19,7 @@
 | [0177-nth-highest-salary](https://github.com/SumitYesade22/DSA/tree/master/0177-nth-highest-salary) |
 | [0626-exchange-seats](https://github.com/SumitYesade22/DSA/tree/master/0626-exchange-seats) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
+| [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
 ## Math
 |  |
 | ------- |
