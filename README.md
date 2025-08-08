@@ -25,6 +25,7 @@
 | [0182-duplicate-emails](https://github.com/SumitYesade22/DSA/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/SumitYesade22/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/SumitYesade22/DSA/tree/master/0262-trips-and-users) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/SumitYesade22/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0626-exchange-seats](https://github.com/SumitYesade22/DSA/tree/master/0626-exchange-seats) |
 | [1179-game-play-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1179-game-play-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
