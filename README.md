@@ -32,6 +32,7 @@
 | [1179-game-play-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1179-game-play-analysis-i) |
 | [1268-market-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
+| [1301-reformat-department-table](https://github.com/SumitYesade22/DSA/tree/master/1301-reformat-department-table) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
 | [3898-seasonal-sales-analysis](https://github.com/SumitYesade22/DSA/tree/master/3898-seasonal-sales-analysis) |
 | [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/SumitYesade22/DSA/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
