@@ -28,6 +28,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SumitYesade22/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0626-exchange-seats](https://github.com/SumitYesade22/DSA/tree/master/0626-exchange-seats) |
 | [0627-swap-salary](https://github.com/SumitYesade22/DSA/tree/master/0627-swap-salary) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SumitYesade22/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1179-game-play-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
