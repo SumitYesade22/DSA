@@ -34,6 +34,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/SumitYesade22/DSA/tree/master/1301-reformat-department-table) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
+| [3767-find-students-who-improved](https://github.com/SumitYesade22/DSA/tree/master/3767-find-students-who-improved) |
 | [3898-seasonal-sales-analysis](https://github.com/SumitYesade22/DSA/tree/master/3898-seasonal-sales-analysis) |
 | [3942-find-drivers-with-improved-fuel-efficiency](https://github.com/SumitYesade22/DSA/tree/master/3942-find-drivers-with-improved-fuel-efficiency) |
 ## Math
