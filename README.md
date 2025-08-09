@@ -30,6 +30,7 @@
 | [0627-swap-salary](https://github.com/SumitYesade22/DSA/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SumitYesade22/DSA/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1179-game-play-analysis-i) |
+| [1268-market-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
 | [3898-seasonal-sales-analysis](https://github.com/SumitYesade22/DSA/tree/master/3898-seasonal-sales-analysis) |
