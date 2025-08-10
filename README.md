@@ -33,6 +33,7 @@
 | [1268-market-analysis-i](https://github.com/SumitYesade22/DSA/tree/master/1268-market-analysis-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/SumitYesade22/DSA/tree/master/1301-reformat-department-table) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/SumitYesade22/DSA/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/SumitYesade22/DSA/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/SumitYesade22/DSA/tree/master/2110-employees-with-missing-information) |
