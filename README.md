@@ -34,6 +34,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/SumitYesade22/DSA/tree/master/1301-reformat-department-table) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
+| [2110-employees-with-missing-information](https://github.com/SumitYesade22/DSA/tree/master/2110-employees-with-missing-information) |
 | [3767-find-students-who-improved](https://github.com/SumitYesade22/DSA/tree/master/3767-find-students-who-improved) |
 | [3898-seasonal-sales-analysis](https://github.com/SumitYesade22/DSA/tree/master/3898-seasonal-sales-analysis) |
 | [3910-find-books-with-no-available-copies](https://github.com/SumitYesade22/DSA/tree/master/3910-find-books-with-no-available-copies) |
