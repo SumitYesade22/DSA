@@ -107,5 +107,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
