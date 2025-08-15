@@ -49,6 +49,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/SumitYesade22/DSA/tree/master/1292-immediate-food-delivery-ii) |
 | [1301-reformat-department-table](https://github.com/SumitYesade22/DSA/tree/master/1301-reformat-department-table) |
 | [1452-restaurant-growth](https://github.com/SumitYesade22/DSA/tree/master/1452-restaurant-growth) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/SumitYesade22/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/SumitYesade22/DSA/tree/master/1541-top-travellers) |
 | [1734-bank-account-summary-ii](https://github.com/SumitYesade22/DSA/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/SumitYesade22/DSA/tree/master/1837-daily-leads-and-partners) |
