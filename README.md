@@ -12,6 +12,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -129,6 +131,7 @@
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
