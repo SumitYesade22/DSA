@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -150,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 ## Counting
 |  |
