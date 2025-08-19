@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
@@ -85,6 +86,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -128,6 +130,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
