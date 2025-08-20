@@ -86,6 +86,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
@@ -137,6 +138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
