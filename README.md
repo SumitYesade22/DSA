@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
