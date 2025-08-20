@@ -24,6 +24,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
@@ -106,6 +107,7 @@
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
