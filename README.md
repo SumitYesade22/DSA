@@ -29,6 +29,7 @@
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0217-contains-duplicate](https://github.com/SumitYesade22/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
