@@ -87,6 +87,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
@@ -165,6 +166,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
