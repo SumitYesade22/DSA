@@ -169,6 +169,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Randomized
 |  |
 | ------- |
