@@ -88,6 +88,7 @@
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
@@ -217,4 +218,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
