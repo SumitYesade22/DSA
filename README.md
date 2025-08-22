@@ -75,6 +75,7 @@
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/SumitYesade22/DSA/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/SumitYesade22/DSA/tree/master/2110-employees-with-missing-information) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/SumitYesade22/DSA/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3767-find-students-who-improved](https://github.com/SumitYesade22/DSA/tree/master/3767-find-students-who-improved) |
 | [3848-analyze-subscription-conversion](https://github.com/SumitYesade22/DSA/tree/master/3848-analyze-subscription-conversion) |
 | [3865-find-product-recommendation-pairs](https://github.com/SumitYesade22/DSA/tree/master/3865-find-product-recommendation-pairs) |
