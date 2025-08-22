@@ -71,6 +71,7 @@
 | [1541-top-travellers](https://github.com/SumitYesade22/DSA/tree/master/1541-top-travellers) |
 | [1734-bank-account-summary-ii](https://github.com/SumitYesade22/DSA/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/SumitYesade22/DSA/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/SumitYesade22/DSA/tree/master/1811-fix-names-in-a-table) |
 | [1837-daily-leads-and-partners](https://github.com/SumitYesade22/DSA/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/SumitYesade22/DSA/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/SumitYesade22/DSA/tree/master/1948-rearrange-products-table) |
