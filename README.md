@@ -174,6 +174,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/SumitYesade22/DSA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/SumitYesade22/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
