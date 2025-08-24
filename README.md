@@ -88,6 +88,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
@@ -136,6 +137,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitYesade22/DSA/tree/master/0217-contains-duplicate) |
@@ -168,6 +170,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SumitYesade22/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
