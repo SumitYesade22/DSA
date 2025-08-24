@@ -190,6 +190,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitYesade22/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/SumitYesade22/DSA/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
