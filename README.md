@@ -32,6 +32,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
@@ -115,6 +116,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 ## Heap (Priority Queue)
 |  |
@@ -155,6 +157,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
@@ -251,6 +254,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Randomized
