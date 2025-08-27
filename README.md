@@ -32,6 +32,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/SumitYesade22/DSA/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
@@ -113,6 +114,7 @@
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SumitYesade22/DSA/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -179,6 +181,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/SumitYesade22/DSA/tree/master/0648-replace-words) |
+| [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
+| [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
