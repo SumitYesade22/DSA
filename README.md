@@ -43,6 +43,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SumitYesade22/DSA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
@@ -290,6 +293,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Randomized
 |  |
 | ------- |
