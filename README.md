@@ -217,6 +217,7 @@
 | [0443-string-compression](https://github.com/SumitYesade22/DSA/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
@@ -339,4 +340,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
