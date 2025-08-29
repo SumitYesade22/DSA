@@ -322,6 +322,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
@@ -351,6 +352,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/SumitYesade22/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitYesade22/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
