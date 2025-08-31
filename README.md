@@ -390,6 +390,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -398,4 +399,13 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
