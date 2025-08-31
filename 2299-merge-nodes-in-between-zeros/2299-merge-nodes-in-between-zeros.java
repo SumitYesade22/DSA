@@ -18,6 +18,6 @@ class Solution {
             temp = temp.next;
         }
         
-        return dummy.next; // skip dummy
+        return dummy.next; 
     }
 }
