@@ -38,6 +38,7 @@
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -251,6 +252,7 @@
 | [0768-partition-labels](https://github.com/SumitYesade22/DSA/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SumitYesade22/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -305,6 +307,7 @@
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
@@ -329,6 +332,7 @@
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
+| [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 ## Data Stream
 |  |
 | ------- |
