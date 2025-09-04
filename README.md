@@ -27,6 +27,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +148,7 @@
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitYesade22/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
@@ -159,6 +161,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -179,6 +182,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +210,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SumitYesade22/DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -363,6 +368,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
@@ -472,4 +478,12 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
