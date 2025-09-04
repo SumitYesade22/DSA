@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SumitYesade22/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SumitYesade22/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SumitYesade22/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SumitYesade22/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SumitYesade22/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
@@ -239,6 +241,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SumitYesade22/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SumitYesade22/DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/SumitYesade22/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SumitYesade22/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
