@@ -61,6 +61,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -180,6 +181,7 @@
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +215,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SumitYesade22/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
