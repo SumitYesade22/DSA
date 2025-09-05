@@ -59,6 +59,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -178,6 +179,7 @@
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -358,6 +360,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Design
 |  |
 | ------- |
