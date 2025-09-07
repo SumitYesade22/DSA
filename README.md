@@ -63,6 +63,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -174,6 +175,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Heap (Priority Queue)
 |  |
@@ -189,6 +191,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Matrix
@@ -224,6 +227,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SumitYesade22/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -261,6 +265,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
