@@ -7,7 +7,6 @@
 
         Map<Character, Integer> mp = new HashMap<>();
 
-        // store karliya
         for (char ch : t.toCharArray())
             mp.put(ch, mp.getOrDefault(ch, 0) + 1);
 
@@ -17,7 +16,7 @@
         int minWindowSize = Integer.MAX_VALUE;
         int start_i = 0;
 
-        // story starts
+        
         while (j < n) {
             char ch = s.charAt(j);
 
@@ -27,8 +26,7 @@
             mp.put(ch, mp.getOrDefault(ch, 0) - 1);
 
             while (requiredCount == 0) {
-                // start shrinking the window
-
+               
                 int currWindowSize = j - i + 1;
 
                 if (minWindowSize > currWindowSize) {
