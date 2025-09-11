@@ -54,6 +54,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
@@ -481,6 +482,7 @@
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Counting
 |  |
@@ -508,6 +510,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SumitYesade22/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
