@@ -51,6 +51,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
+| [1138-grumpy-bookstore-owner](https://github.com/SumitYesade22/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -517,6 +518,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SumitYesade22/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1138-grumpy-bookstore-owner](https://github.com/SumitYesade22/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
