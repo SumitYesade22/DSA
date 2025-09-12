@@ -102,6 +102,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Database
@@ -407,6 +408,7 @@
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -515,6 +517,7 @@
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SumitYesade22/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
@@ -552,6 +555,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 ## Trie
