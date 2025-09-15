@@ -634,6 +634,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -659,6 +660,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -671,6 +673,7 @@
 | [0386-lexicographical-numbers](https://github.com/SumitYesade22/DSA/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
+| [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -678,6 +681,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
