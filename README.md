@@ -411,6 +411,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SumitYesade22/DSA/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
@@ -628,6 +629,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SumitYesade22/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -652,6 +654,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SumitYesade22/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -664,6 +667,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/SumitYesade22/DSA/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
@@ -700,6 +704,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
