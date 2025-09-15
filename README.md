@@ -54,6 +54,7 @@
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/SumitYesade22/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
@@ -329,6 +330,7 @@
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -635,6 +637,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
@@ -662,6 +665,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -676,6 +680,7 @@
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
