@@ -638,6 +638,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -681,6 +682,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
@@ -708,6 +710,7 @@
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/SumitYesade22/DSA/tree/master/0386-lexicographical-numbers) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
@@ -726,6 +729,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
