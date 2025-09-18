@@ -49,6 +49,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
@@ -209,6 +210,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -395,6 +397,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SumitYesade22/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -476,6 +479,7 @@
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
+| [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
