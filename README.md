@@ -79,6 +79,7 @@
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -358,6 +359,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
@@ -505,6 +507,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -562,6 +565,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 ## Randomized
 |  |
