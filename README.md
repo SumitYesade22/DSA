@@ -60,6 +60,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -522,6 +523,7 @@
 | [1033-broken-calculator](https://github.com/SumitYesade22/DSA/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
 | [1448-maximum-69-number](https://github.com/SumitYesade22/DSA/tree/master/1448-maximum-69-number) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SumitYesade22/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
@@ -576,6 +578,7 @@
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
+| [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Counting
