@@ -52,6 +52,7 @@
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
@@ -234,6 +235,7 @@
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -525,6 +527,7 @@
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/SumitYesade22/DSA/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
@@ -597,6 +600,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
