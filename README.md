@@ -239,6 +239,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
@@ -369,6 +370,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -475,6 +477,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -527,6 +530,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SumitYesade22/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
