@@ -64,6 +64,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
@@ -237,6 +238,7 @@
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -368,6 +370,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -528,6 +531,7 @@
 | [1448-maximum-69-number](https://github.com/SumitYesade22/DSA/tree/master/1448-maximum-69-number) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SumitYesade22/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -594,6 +598,7 @@
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
