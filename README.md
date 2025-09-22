@@ -820,6 +820,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0904-leaf-similar-trees) |
@@ -843,6 +844,7 @@
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -899,8 +901,13 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
