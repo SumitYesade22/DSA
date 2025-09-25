@@ -350,6 +350,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -486,6 +487,7 @@
 | [0768-partition-labels](https://github.com/SumitYesade22/DSA/tree/master/0768-partition-labels) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
@@ -529,6 +531,7 @@
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/SumitYesade22/DSA/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -564,6 +567,7 @@
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
