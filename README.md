@@ -21,6 +21,7 @@
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/SumitYesade22/DSA/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -653,6 +654,7 @@
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/SumitYesade22/DSA/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/SumitYesade22/DSA/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
