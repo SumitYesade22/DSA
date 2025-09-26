@@ -10,6 +10,7 @@
 | [0018-4sum](https://github.com/SumitYesade22/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
@@ -238,6 +239,7 @@
 | [0015-3sum](https://github.com/SumitYesade22/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SumitYesade22/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SumitYesade22/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
@@ -946,6 +948,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
