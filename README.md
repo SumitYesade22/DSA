@@ -114,6 +114,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
@@ -347,6 +348,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SumitYesade22/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
 |  |
@@ -374,6 +376,7 @@
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
