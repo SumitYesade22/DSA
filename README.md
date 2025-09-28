@@ -100,6 +100,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
@@ -159,6 +160,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Database
@@ -442,6 +444,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -732,6 +735,7 @@
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
