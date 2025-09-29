@@ -46,6 +46,7 @@
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/SumitYesade22/DSA/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
@@ -421,6 +422,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/SumitYesade22/DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
@@ -791,6 +793,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SumitYesade22/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
