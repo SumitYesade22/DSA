@@ -87,6 +87,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -286,6 +287,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
