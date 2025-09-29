@@ -127,6 +127,7 @@
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SumitYesade22/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -464,6 +465,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SumitYesade22/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2825-minimize-string-length](https://github.com/SumitYesade22/DSA/tree/master/2825-minimize-string-length) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
