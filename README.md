@@ -775,6 +775,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1212-sequential-digits](https://github.com/SumitYesade22/DSA/tree/master/1212-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 ## Number Theory
