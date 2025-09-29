@@ -9,7 +9,7 @@ class Solution {
             while (num <= high && nextDigit <= 9) { 
                 if (num >= low) ans.add(num);
                 nextDigit++;
-                if (nextDigit > 9) break; 
+                // if (nextDigit > 9) break; 
                 num = num * 10 + nextDigit;
             }
         }
