@@ -135,6 +135,7 @@
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SumitYesade22/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -611,6 +612,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2825-minimize-string-length](https://github.com/SumitYesade22/DSA/tree/master/2825-minimize-string-length) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitYesade22/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
@@ -820,6 +822,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/SumitYesade22/DSA/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Trie
