@@ -102,6 +102,7 @@
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1848-sum-of-unique-elements) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -729,6 +730,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Counting
 |  |
