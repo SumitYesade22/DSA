@@ -339,6 +339,7 @@
 | [0506-relative-ranks](https://github.com/SumitYesade22/DSA/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SumitYesade22/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -974,6 +975,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
@@ -1004,6 +1006,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
@@ -1068,6 +1071,7 @@
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SumitYesade22/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
 ## Topological Sort
@@ -1096,4 +1100,8 @@
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
