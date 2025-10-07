@@ -121,6 +121,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/SumitYesade22/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -380,6 +381,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -411,6 +413,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/SumitYesade22/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
