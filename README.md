@@ -117,6 +117,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -397,6 +398,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/SumitYesade22/DSA/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
@@ -714,6 +716,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
