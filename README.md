@@ -101,6 +101,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -188,6 +189,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -705,6 +707,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -774,6 +777,7 @@
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
