@@ -271,6 +271,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SumitYesade22/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/SumitYesade22/DSA/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SumitYesade22/DSA/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -432,6 +433,7 @@
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1642-water-bottles](https://github.com/SumitYesade22/DSA/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
