@@ -521,6 +521,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SumitYesade22/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
@@ -572,6 +573,7 @@
 | [0389-find-the-difference](https://github.com/SumitYesade22/DSA/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SumitYesade22/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -668,6 +670,7 @@
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -916,6 +919,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
