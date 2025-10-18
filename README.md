@@ -181,6 +181,7 @@
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SumitYesade22/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -585,6 +586,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -886,6 +888,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SumitYesade22/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
 |  |
 | ------- |
@@ -943,6 +946,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
@@ -1124,6 +1128,7 @@
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Memoization
 |  |
 | ------- |
