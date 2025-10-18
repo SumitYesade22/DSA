@@ -186,6 +186,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [4015-split-array-with-minimum-difference](https://github.com/SumitYesade22/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Binary Search
 |  |
@@ -571,6 +572,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -904,6 +906,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -914,6 +917,7 @@
 | [1212-sequential-digits](https://github.com/SumitYesade22/DSA/tree/master/1212-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
