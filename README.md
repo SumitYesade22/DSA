@@ -161,6 +161,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2714-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/SumitYesade22/DSA/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -935,6 +936,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/SumitYesade22/DSA/tree/master/2358-number-of-ways-to-split-array) |
 | [2571-find-the-pivot-integer](https://github.com/SumitYesade22/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2714-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 ## Trie
