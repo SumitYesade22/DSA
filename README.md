@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SumitYesade22/DSA/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/SumitYesade22/DSA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -268,6 +269,7 @@
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SumitYesade22/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
@@ -919,6 +921,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/SumitYesade22/DSA/tree/master/1212-sequential-digits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
@@ -926,6 +929,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
