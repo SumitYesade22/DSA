@@ -275,6 +275,7 @@
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SumitYesade22/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1211,6 +1212,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Binary Indexed Tree
 |  |
