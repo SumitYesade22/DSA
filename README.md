@@ -262,6 +262,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/SumitYesade22/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
