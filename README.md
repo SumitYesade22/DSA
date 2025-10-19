@@ -87,6 +87,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SumitYesade22/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -287,6 +288,7 @@
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/SumitYesade22/DSA/tree/master/1033-broken-calculator) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/SumitYesade22/DSA/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1230,4 +1232,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
