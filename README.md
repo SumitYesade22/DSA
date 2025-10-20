@@ -309,6 +309,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/SumitYesade22/DSA/tree/master/2571-find-the-pivot-integer) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/SumitYesade22/DSA/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SumitYesade22/DSA/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
@@ -941,6 +942,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
+| [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
