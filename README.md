@@ -56,6 +56,7 @@
 | [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumitYesade22/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
@@ -342,6 +343,7 @@
 | [0455-assign-cookies](https://github.com/SumitYesade22/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/SumitYesade22/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -750,6 +752,7 @@
 | [0409-longest-palindrome](https://github.com/SumitYesade22/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/SumitYesade22/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
+| [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/SumitYesade22/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -1198,6 +1201,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 ## Game Theory
 |  |
