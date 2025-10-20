@@ -83,6 +83,7 @@
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
@@ -293,6 +294,7 @@
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0935-orderly-queue](https://github.com/SumitYesade22/DSA/tree/master/0935-orderly-queue) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/SumitYesade22/DSA/tree/master/1033-broken-calculator) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -362,6 +364,7 @@
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -780,6 +783,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
+| [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/SumitYesade22/DSA/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/SumitYesade22/DSA/tree/master/1304-longest-happy-string) |
