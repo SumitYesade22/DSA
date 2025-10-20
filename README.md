@@ -311,6 +311,7 @@
 | [2645-pass-the-pillow](https://github.com/SumitYesade22/DSA/tree/master/2645-pass-the-pillow) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SumitYesade22/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
