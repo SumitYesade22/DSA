@@ -144,6 +144,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitYesade22/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -384,6 +385,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitYesade22/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -815,6 +817,7 @@
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitYesade22/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
