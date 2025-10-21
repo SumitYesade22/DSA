@@ -692,6 +692,7 @@
 | [0389-find-the-difference](https://github.com/SumitYesade22/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/SumitYesade22/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SumitYesade22/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/SumitYesade22/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -749,6 +750,7 @@
 | [0234-palindrome-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/SumitYesade22/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/SumitYesade22/DSA/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
@@ -769,6 +771,7 @@
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/SumitYesade22/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/SumitYesade22/DSA/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SumitYesade22/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/SumitYesade22/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
@@ -841,6 +844,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/SumitYesade22/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
