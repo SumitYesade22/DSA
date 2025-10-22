@@ -400,6 +400,7 @@
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Heap (Priority Queue)
@@ -597,6 +598,7 @@
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -741,6 +743,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitYesade22/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/SumitYesade22/DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -833,6 +836,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
 |  |
@@ -916,6 +920,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Randomized
 |  |
