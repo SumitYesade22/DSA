@@ -347,6 +347,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SumitYesade22/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/SumitYesade22/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -413,6 +414,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SumitYesade22/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -648,6 +650,7 @@
 | [0202-happy-number](https://github.com/SumitYesade22/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/SumitYesade22/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SumitYesade22/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -850,6 +853,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SumitYesade22/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
@@ -869,6 +873,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SumitYesade22/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
