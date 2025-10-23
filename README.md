@@ -531,6 +531,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/SumitYesade22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SumitYesade22/DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/SumitYesade22/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SumitYesade22/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
@@ -705,6 +706,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/SumitYesade22/DSA/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/SumitYesade22/DSA/tree/master/0290-word-pattern) |
