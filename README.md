@@ -28,6 +28,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SumitYesade22/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SumitYesade22/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
@@ -525,6 +526,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/SumitYesade22/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/SumitYesade22/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitYesade22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
@@ -697,6 +699,7 @@
 | [0076-minimum-window-substring](https://github.com/SumitYesade22/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SumitYesade22/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
@@ -892,6 +895,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SumitYesade22/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SumitYesade22/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/SumitYesade22/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SumitYesade22/DSA/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1044,6 +1048,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/SumitYesade22/DSA/tree/master/0386-lexicographical-numbers) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0648-replace-words](https://github.com/SumitYesade22/DSA/tree/master/0648-replace-words) |
@@ -1229,6 +1234,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 ## Bucket Sort
@@ -1250,6 +1256,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
