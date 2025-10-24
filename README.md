@@ -109,6 +109,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -497,6 +498,7 @@
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/SumitYesade22/DSA/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -804,6 +806,7 @@
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SumitYesade22/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
