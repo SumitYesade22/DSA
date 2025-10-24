@@ -727,6 +727,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/SumitYesade22/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/SumitYesade22/DSA/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/SumitYesade22/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -912,6 +913,7 @@
 | [0322-coin-change](https://github.com/SumitYesade22/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
