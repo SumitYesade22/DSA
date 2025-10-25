@@ -84,6 +84,7 @@
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
@@ -491,6 +492,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SumitYesade22/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -947,6 +949,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
@@ -1279,6 +1282,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/SumitYesade22/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/SumitYesade22/DSA/tree/master/0859-design-circular-deque) |
+| [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1303,6 +1307,7 @@
 ## Monotonic Queue
 |  |
 | ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Backtracking
 |  |
