@@ -155,6 +155,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/SumitYesade22/DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -326,6 +327,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/SumitYesade22/DSA/tree/master/2050-count-good-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/SumitYesade22/DSA/tree/master/2571-find-the-pivot-integer) |
@@ -813,6 +815,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
@@ -1049,6 +1052,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
