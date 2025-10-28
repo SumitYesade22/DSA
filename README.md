@@ -277,6 +277,7 @@
 | [1452-restaurant-growth](https://github.com/SumitYesade22/DSA/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/SumitYesade22/DSA/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1541-top-travellers](https://github.com/SumitYesade22/DSA/tree/master/1541-top-travellers) |
+| [1670-patients-with-a-condition](https://github.com/SumitYesade22/DSA/tree/master/1670-patients-with-a-condition) |
 | [1734-bank-account-summary-ii](https://github.com/SumitYesade22/DSA/tree/master/1734-bank-account-summary-ii) |
 | [1801-average-time-of-process-per-machine](https://github.com/SumitYesade22/DSA/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/SumitYesade22/DSA/tree/master/1811-fix-names-in-a-table) |
