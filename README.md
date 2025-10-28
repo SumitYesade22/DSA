@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -517,6 +518,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
@@ -740,6 +742,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SumitYesade22/DSA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/SumitYesade22/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SumitYesade22/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
