@@ -306,6 +306,7 @@
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/SumitYesade22/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
