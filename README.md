@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/SumitYesade22/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/SumitYesade22/DSA/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/SumitYesade22/DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/SumitYesade22/DSA/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
@@ -865,6 +866,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SumitYesade22/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SumitYesade22/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SumitYesade22/DSA/tree/master/0134-gas-station) |
@@ -973,6 +975,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SumitYesade22/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/SumitYesade22/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/SumitYesade22/DSA/tree/master/0091-decode-ways) |
