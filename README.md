@@ -36,6 +36,7 @@
 | [0135-candy](https://github.com/SumitYesade22/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
@@ -307,6 +308,7 @@
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SumitYesade22/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/SumitYesade22/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0172-factorial-trailing-zeroes) |
@@ -577,6 +579,7 @@
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/SumitYesade22/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitYesade22/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SumitYesade22/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SumitYesade22/DSA/tree/master/0205-isomorphic-strings) |
@@ -1434,5 +1437,6 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
