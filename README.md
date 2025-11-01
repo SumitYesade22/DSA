@@ -1370,6 +1370,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/SumitYesade22/DSA/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
