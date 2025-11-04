@@ -145,6 +145,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SumitYesade22/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SumitYesade22/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
@@ -265,6 +266,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -438,6 +440,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SumitYesade22/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -775,6 +778,7 @@
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SumitYesade22/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1972-rotating-the-box](https://github.com/SumitYesade22/DSA/tree/master/1972-rotating-the-box) |
