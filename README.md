@@ -135,6 +135,7 @@
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -897,6 +898,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SumitYesade22/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/SumitYesade22/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1005,6 +1007,7 @@
 | [0739-daily-temperatures](https://github.com/SumitYesade22/DSA/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Data Stream
 |  |
