@@ -163,6 +163,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -271,6 +272,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -451,6 +453,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1829-maximum-units-on-a-truck) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/SumitYesade22/DSA/tree/master/1970-sorting-the-sentence) |
@@ -1074,6 +1077,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SumitYesade22/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
