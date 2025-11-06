@@ -246,6 +246,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [4015-split-array-with-minimum-difference](https://github.com/SumitYesade22/DSA/tree/master/4015-split-array-with-minimum-difference) |
+| [4107-find-missing-elements](https://github.com/SumitYesade22/DSA/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -484,6 +485,7 @@
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [4107-find-missing-elements](https://github.com/SumitYesade22/DSA/tree/master/4107-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -724,6 +726,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
+| [4107-find-missing-elements](https://github.com/SumitYesade22/DSA/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
