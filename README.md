@@ -245,6 +245,7 @@
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
+| [4012-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4015-split-array-with-minimum-difference](https://github.com/SumitYesade22/DSA/tree/master/4015-split-array-with-minimum-difference) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/SumitYesade22/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
