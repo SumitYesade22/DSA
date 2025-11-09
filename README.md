@@ -185,6 +185,7 @@
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
+| [2227-sum-of-subarray-ranges](https://github.com/SumitYesade22/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SumitYesade22/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitYesade22/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -947,6 +948,7 @@
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2227-sum-of-subarray-ranges](https://github.com/SumitYesade22/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
@@ -1063,6 +1065,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SumitYesade22/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2227-sum-of-subarray-ranges](https://github.com/SumitYesade22/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
