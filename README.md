@@ -76,6 +76,7 @@
 | [0463-island-perimeter](https://github.com/SumitYesade22/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
@@ -1124,6 +1125,7 @@
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
@@ -1515,6 +1517,7 @@
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SumitYesade22/DSA/tree/master/0679-24-game) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
