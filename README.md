@@ -107,6 +107,7 @@
 | [0859-design-circular-deque](https://github.com/SumitYesade22/DSA/tree/master/0859-design-circular-deque) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/SumitYesade22/DSA/tree/master/0883-car-fleet) |
+| [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
@@ -1126,6 +1127,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
+| [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
 | [0943-sum-of-subarray-minimums](https://github.com/SumitYesade22/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
