@@ -372,6 +372,7 @@
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/SumitYesade22/DSA/tree/master/0679-24-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SumitYesade22/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
@@ -1131,6 +1132,7 @@
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
