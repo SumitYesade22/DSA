@@ -247,6 +247,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SumitYesade22/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/SumitYesade22/DSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -1301,6 +1302,7 @@
 | [2714-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2714-left-and-right-sum-differences) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SumitYesade22/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/SumitYesade22/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Trie
