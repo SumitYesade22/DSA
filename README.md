@@ -853,6 +853,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SumitYesade22/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/SumitYesade22/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SumitYesade22/DSA/tree/master/0038-count-and-say) |
