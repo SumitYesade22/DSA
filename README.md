@@ -906,6 +906,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SumitYesade22/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SumitYesade22/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/SumitYesade22/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
 | [1304-longest-happy-string](https://github.com/SumitYesade22/DSA/tree/master/1304-longest-happy-string) |
@@ -1151,6 +1152,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/SumitYesade22/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
