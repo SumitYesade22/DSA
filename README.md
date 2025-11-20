@@ -99,6 +99,7 @@
 | [0658-find-k-closest-elements](https://github.com/SumitYesade22/DSA/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/SumitYesade22/DSA/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/SumitYesade22/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SumitYesade22/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -587,6 +588,7 @@
 | [0463-island-perimeter](https://github.com/SumitYesade22/DSA/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1458,6 +1460,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
+| [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
@@ -1489,6 +1492,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SumitYesade22/DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SumitYesade22/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
@@ -1593,6 +1597,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SumitYesade22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/SumitYesade22/DSA/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 ## Brainteaser
 |  |
