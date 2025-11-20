@@ -87,6 +87,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumitYesade22/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SumitYesade22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
@@ -585,6 +586,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/SumitYesade22/DSA/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -625,6 +627,7 @@
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SumitYesade22/DSA/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
