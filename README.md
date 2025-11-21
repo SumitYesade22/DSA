@@ -42,6 +42,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SumitYesade22/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/SumitYesade22/DSA/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/SumitYesade22/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
@@ -582,6 +583,7 @@
 | [0064-minimum-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/SumitYesade22/DSA/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/SumitYesade22/DSA/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/SumitYesade22/DSA/tree/master/0289-game-of-life) |
@@ -1141,6 +1143,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SumitYesade22/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
+| [0174-dungeon-game](https://github.com/SumitYesade22/DSA/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/SumitYesade22/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SumitYesade22/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SumitYesade22/DSA/tree/master/0221-maximal-square) |
