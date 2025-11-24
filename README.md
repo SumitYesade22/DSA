@@ -416,6 +416,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SumitYesade22/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/SumitYesade22/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/SumitYesade22/DSA/tree/master/2571-find-the-pivot-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
@@ -864,6 +865,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/SumitYesade22/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
@@ -1618,6 +1620,7 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [2396-strictly-palindromic-number](https://github.com/SumitYesade22/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
