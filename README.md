@@ -383,6 +383,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SumitYesade22/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/SumitYesade22/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
