@@ -794,6 +794,7 @@
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitYesade22/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/SumitYesade22/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SumitYesade22/DSA/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SumitYesade22/DSA/tree/master/0795-k-th-symbol-in-grammar) |
@@ -1150,6 +1151,7 @@
 | [0221-maximal-square](https://github.com/SumitYesade22/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/SumitYesade22/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/SumitYesade22/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
