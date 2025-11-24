@@ -424,6 +424,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/SumitYesade22/DSA/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SumitYesade22/DSA/tree/master/2649-count-total-number-of-colored-cells) |
+| [2652-sum-multiples](https://github.com/SumitYesade22/DSA/tree/master/2652-sum-multiples) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SumitYesade22/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
