@@ -107,6 +107,7 @@
 | [0724-find-pivot-index](https://github.com/SumitYesade22/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SumitYesade22/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/SumitYesade22/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
@@ -1159,6 +1160,7 @@
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
+| [0746-min-cost-climbing-stairs](https://github.com/SumitYesade22/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
