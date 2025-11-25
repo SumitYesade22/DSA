@@ -127,6 +127,7 @@
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SumitYesade22/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [0993-tallest-billboard](https://github.com/SumitYesade22/DSA/tree/master/0993-tallest-billboard) |
+| [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/SumitYesade22/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -729,6 +730,7 @@
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1608,6 +1610,7 @@
 | [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
