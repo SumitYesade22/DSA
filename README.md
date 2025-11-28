@@ -24,6 +24,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SumitYesade22/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SumitYesade22/DSA/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
@@ -370,6 +371,7 @@
 | [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SumitYesade22/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/SumitYesade22/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
