@@ -41,6 +41,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/SumitYesade22/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/SumitYesade22/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SumitYesade22/DSA/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/SumitYesade22/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/SumitYesade22/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
@@ -807,6 +808,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SumitYesade22/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SumitYesade22/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SumitYesade22/DSA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/SumitYesade22/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
