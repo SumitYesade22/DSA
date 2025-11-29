@@ -31,6 +31,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/SumitYesade22/DSA/tree/master/0120-triangle) |
@@ -451,6 +452,7 @@
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SumitYesade22/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SumitYesade22/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SumitYesade22/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0215-kth-largest-element-in-an-array) |
@@ -836,6 +838,7 @@
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SumitYesade22/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/SumitYesade22/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitYesade22/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0151-reverse-words-in-a-string) |
