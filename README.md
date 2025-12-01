@@ -115,6 +115,7 @@
 | [0724-find-pivot-index](https://github.com/SumitYesade22/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SumitYesade22/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SumitYesade22/DSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SumitYesade22/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumitYesade22/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -312,6 +313,7 @@
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SumitYesade22/DSA/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SumitYesade22/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
