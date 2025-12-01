@@ -127,6 +127,7 @@
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/0941-valid-mountain-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/SumitYesade22/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
