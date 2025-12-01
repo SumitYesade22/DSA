@@ -133,6 +133,7 @@
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
@@ -504,6 +505,7 @@
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SumitYesade22/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -890,6 +892,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/SumitYesade22/DSA/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/SumitYesade22/DSA/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
