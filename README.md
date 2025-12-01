@@ -147,6 +147,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/SumitYesade22/DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1046-last-stone-weight) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
@@ -583,6 +584,7 @@
 | [0802-k-th-smallest-prime-fraction](https://github.com/SumitYesade22/DSA/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SumitYesade22/DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1046-last-stone-weight) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [1304-longest-happy-string](https://github.com/SumitYesade22/DSA/tree/master/1304-longest-happy-string) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
