@@ -202,6 +202,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -803,6 +804,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
@@ -1294,6 +1296,7 @@
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/SumitYesade22/DSA/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1848-sum-of-unique-elements) |
