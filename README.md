@@ -179,6 +179,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
+| [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -430,6 +431,7 @@
 | [1448-maximum-69-number](https://github.com/SumitYesade22/DSA/tree/master/1448-maximum-69-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SumitYesade22/DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/SumitYesade22/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SumitYesade22/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -793,6 +795,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SumitYesade22/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1282,6 +1285,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SumitYesade22/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SumitYesade22/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
