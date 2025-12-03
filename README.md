@@ -225,6 +225,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -551,6 +552,7 @@
 | [1970-sorting-the-sentence](https://github.com/SumitYesade22/DSA/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/SumitYesade22/DSA/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -609,6 +611,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -813,6 +816,7 @@
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
