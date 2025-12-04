@@ -416,6 +416,7 @@
 | [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/SumitYesade22/DSA/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SumitYesade22/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -1243,6 +1244,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SumitYesade22/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/SumitYesade22/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SumitYesade22/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/SumitYesade22/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
