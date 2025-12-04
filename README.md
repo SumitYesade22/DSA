@@ -258,6 +258,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -346,6 +347,7 @@
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
+| [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
@@ -839,6 +841,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SumitYesade22/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
@@ -948,6 +951,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/SumitYesade22/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
