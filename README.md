@@ -280,6 +280,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumitYesade22/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SumitYesade22/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -578,6 +579,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -636,6 +638,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -737,6 +740,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
