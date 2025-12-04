@@ -180,6 +180,7 @@
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
 | [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -536,6 +537,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/SumitYesade22/DSA/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1270,6 +1272,7 @@
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SumitYesade22/DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1575-count-all-possible-routes](https://github.com/SumitYesade22/DSA/tree/master/1575-count-all-possible-routes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SumitYesade22/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SumitYesade22/DSA/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
