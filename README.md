@@ -306,6 +306,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
