@@ -303,6 +303,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -644,6 +645,7 @@
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -747,6 +749,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -874,6 +877,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -1485,6 +1489,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/SumitYesade22/DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
@@ -1769,11 +1774,13 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/SumitYesade22/DSA/tree/master/0456-132-pattern) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Merge Sort
 |  |
