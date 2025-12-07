@@ -28,6 +28,7 @@
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SumitYesade22/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SumitYesade22/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SumitYesade22/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
@@ -886,6 +887,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SumitYesade22/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SumitYesade22/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SumitYesade22/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/SumitYesade22/DSA/tree/master/0191-number-of-1-bits) |
@@ -1690,6 +1692,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/SumitYesade22/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SumitYesade22/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SumitYesade22/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
