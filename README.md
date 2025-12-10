@@ -155,6 +155,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/SumitYesade22/DSA/tree/master/1025-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/SumitYesade22/DSA/tree/master/1035-uncrossed-lines) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1046-last-stone-weight) |
@@ -1299,6 +1300,7 @@
 | [0993-tallest-billboard](https://github.com/SumitYesade22/DSA/tree/master/0993-tallest-billboard) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/SumitYesade22/DSA/tree/master/1025-minimum-cost-for-tickets) |
+| [1035-uncrossed-lines](https://github.com/SumitYesade22/DSA/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
