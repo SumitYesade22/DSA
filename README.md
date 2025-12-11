@@ -1308,6 +1308,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/SumitYesade22/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
