@@ -1299,6 +1299,7 @@
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
+| [0935-knight-dialer](https://github.com/SumitYesade22/DSA/tree/master/0935-knight-dialer) |
 | [0943-sum-of-subarray-minimums](https://github.com/SumitYesade22/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0993-tallest-billboard](https://github.com/SumitYesade22/DSA/tree/master/0993-tallest-billboard) |
