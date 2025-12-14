@@ -1095,6 +1095,7 @@
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SumitYesade22/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SumitYesade22/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/SumitYesade22/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -1534,6 +1535,7 @@
 | [0112-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SumitYesade22/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
@@ -1587,6 +1589,7 @@
 | [0112-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/SumitYesade22/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
@@ -1624,6 +1627,7 @@
 | [0112-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SumitYesade22/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SumitYesade22/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SumitYesade22/DSA/tree/master/0210-course-schedule-ii) |
