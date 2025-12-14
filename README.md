@@ -1554,6 +1554,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1612,6 +1613,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
+| [0872-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1657,6 +1659,7 @@
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0832-binary-tree-pruning](https://github.com/SumitYesade22/DSA/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
+| [0872-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
