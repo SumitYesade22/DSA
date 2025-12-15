@@ -1566,6 +1566,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumitYesade22/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1627,6 +1628,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2236-root-equals-sum-of-children) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumitYesade22/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1677,6 +1679,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
