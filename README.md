@@ -1567,6 +1567,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SumitYesade22/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1632,6 +1633,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SumitYesade22/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SumitYesade22/DSA/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -1684,6 +1686,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/SumitYesade22/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
