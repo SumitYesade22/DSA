@@ -1562,6 +1562,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1588,6 +1589,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1628,6 +1630,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1681,6 +1684,7 @@
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
