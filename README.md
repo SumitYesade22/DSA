@@ -1424,6 +1424,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SumitYesade22/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SumitYesade22/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SumitYesade22/DSA/tree/master/0231-power-of-two) |
@@ -1507,6 +1508,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SumitYesade22/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SumitYesade22/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/SumitYesade22/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SumitYesade22/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
