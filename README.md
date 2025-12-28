@@ -1338,6 +1338,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/SumitYesade22/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
+| [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/SumitYesade22/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
