@@ -425,6 +425,7 @@
 | [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SumitYesade22/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/SumitYesade22/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SumitYesade22/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SumitYesade22/DSA/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/SumitYesade22/DSA/tree/master/0149-max-points-on-a-line) |
@@ -1290,6 +1291,7 @@
 | [0045-jump-game-ii](https://github.com/SumitYesade22/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SumitYesade22/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SumitYesade22/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SumitYesade22/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SumitYesade22/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SumitYesade22/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SumitYesade22/DSA/tree/master/0072-edit-distance) |
@@ -1856,6 +1858,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SumitYesade22/DSA/tree/master/0062-unique-paths) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SumitYesade22/DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
