@@ -1323,6 +1323,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/SumitYesade22/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumitYesade22/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0799-champagne-tower](https://github.com/SumitYesade22/DSA/tree/master/0799-champagne-tower) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0911-profitable-schemes](https://github.com/SumitYesade22/DSA/tree/master/0911-profitable-schemes) |
