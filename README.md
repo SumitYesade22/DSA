@@ -1322,6 +1322,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/SumitYesade22/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
+| [0688-knight-probability-in-chessboard](https://github.com/SumitYesade22/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/SumitYesade22/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/SumitYesade22/DSA/tree/master/0799-champagne-tower) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
