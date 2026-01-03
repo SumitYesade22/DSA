@@ -443,6 +443,7 @@
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SumitYesade22/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SumitYesade22/DSA/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/SumitYesade22/DSA/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
@@ -1322,6 +1323,7 @@
 | [0213-house-robber-ii](https://github.com/SumitYesade22/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/SumitYesade22/DSA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/SumitYesade22/DSA/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/SumitYesade22/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/SumitYesade22/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/SumitYesade22/DSA/tree/master/0338-counting-bits) |
@@ -1791,6 +1793,7 @@
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SumitYesade22/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/SumitYesade22/DSA/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/SumitYesade22/DSA/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/SumitYesade22/DSA/tree/master/0463-island-perimeter) |
