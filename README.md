@@ -97,6 +97,7 @@
 | [0463-island-perimeter](https://github.com/SumitYesade22/DSA/tree/master/0463-island-perimeter) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
@@ -452,6 +453,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/SumitYesade22/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/SumitYesade22/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -1335,6 +1337,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/SumitYesade22/DSA/tree/master/0518-coin-change-ii) |
@@ -1473,6 +1476,7 @@
 | [0326-power-of-three](https://github.com/SumitYesade22/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/SumitYesade22/DSA/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SumitYesade22/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/SumitYesade22/DSA/tree/master/1197-parsing-a-boolean-expression) |
@@ -1902,6 +1906,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Graph
