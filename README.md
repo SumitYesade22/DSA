@@ -616,6 +616,7 @@
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
+| [2785-sort-vowels-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
@@ -1121,6 +1122,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2785-sort-vowels-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2825-minimize-string-length](https://github.com/SumitYesade22/DSA/tree/master/2825-minimize-string-length) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/SumitYesade22/DSA/tree/master/2942-find-words-containing-character) |
