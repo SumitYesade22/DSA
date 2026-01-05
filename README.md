@@ -255,6 +255,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SumitYesade22/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/SumitYesade22/DSA/tree/master/2211-k-radius-subarray-averages) |
 | [2227-sum-of-subarray-ranges](https://github.com/SumitYesade22/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -1119,6 +1120,7 @@
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SumitYesade22/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SumitYesade22/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SumitYesade22/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1530,6 +1532,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SumitYesade22/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/SumitYesade22/DSA/tree/master/0572-subtree-of-another-tree) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/SumitYesade22/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
 | ------- |
