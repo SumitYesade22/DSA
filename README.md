@@ -88,6 +88,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/SumitYesade22/DSA/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -1373,6 +1374,7 @@
 | [0377-combination-sum-iv](https://github.com/SumitYesade22/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/SumitYesade22/DSA/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
@@ -1484,6 +1486,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SumitYesade22/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SumitYesade22/DSA/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SumitYesade22/DSA/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0594-longest-harmonious-subsequence) |
