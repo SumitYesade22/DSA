@@ -288,6 +288,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SumitYesade22/DSA/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -504,6 +505,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SumitYesade22/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2571-find-the-pivot-integer](https://github.com/SumitYesade22/DSA/tree/master/2571-find-the-pivot-integer) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2645-pass-the-pillow](https://github.com/SumitYesade22/DSA/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/SumitYesade22/DSA/tree/master/2649-count-total-number-of-colored-cells) |
@@ -615,6 +617,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SumitYesade22/DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -904,6 +907,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1430,6 +1434,7 @@
 | [2140-solving-questions-with-brainpower](https://github.com/SumitYesade22/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SumitYesade22/DSA/tree/master/2562-count-ways-to-build-good-strings) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/SumitYesade22/DSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1936,6 +1941,7 @@
 | [1331-path-with-maximum-gold](https://github.com/SumitYesade22/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bitmask
 |  |
 | ------- |
@@ -1948,6 +1954,7 @@
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SumitYesade22/DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Counting Sort
 |  |
 | ------- |
