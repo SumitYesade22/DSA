@@ -1982,6 +1982,7 @@
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/SumitYesade22/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
