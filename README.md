@@ -100,6 +100,7 @@
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
@@ -838,6 +839,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SumitYesade22/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -1174,6 +1176,7 @@
 | [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/SumitYesade22/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SumitYesade22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0654-maximum-binary-tree) |
@@ -1318,6 +1321,7 @@
 | [0316-remove-duplicate-letters](https://github.com/SumitYesade22/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/SumitYesade22/DSA/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SumitYesade22/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SumitYesade22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0654-maximum-binary-tree) |
