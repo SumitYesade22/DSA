@@ -298,6 +298,7 @@
 | [2626-count-the-number-of-good-subarrays](https://github.com/SumitYesade22/DSA/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2678-number-of-senior-citizens](https://github.com/SumitYesade22/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2685-first-completely-painted-row-or-column](https://github.com/SumitYesade22/DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1149,6 +1150,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2678-number-of-senior-citizens](https://github.com/SumitYesade22/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2785-sort-vowels-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2825-minimize-string-length](https://github.com/SumitYesade22/DSA/tree/master/2825-minimize-string-length) |
