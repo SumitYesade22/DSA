@@ -248,6 +248,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SumitYesade22/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -897,6 +898,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SumitYesade22/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -1135,6 +1137,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/SumitYesade22/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SumitYesade22/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SumitYesade22/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SumitYesade22/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -1489,6 +1492,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
