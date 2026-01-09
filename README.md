@@ -194,6 +194,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SumitYesade22/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
+| [1436-destination-city](https://github.com/SumitYesade22/DSA/tree/master/1436-destination-city) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -883,6 +884,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SumitYesade22/DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/SumitYesade22/DSA/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1436-destination-city](https://github.com/SumitYesade22/DSA/tree/master/1436-destination-city) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1118,6 +1120,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SumitYesade22/DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/SumitYesade22/DSA/tree/master/1436-destination-city) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SumitYesade22/DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitYesade22/DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
