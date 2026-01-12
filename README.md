@@ -783,6 +783,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SumitYesade22/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1164,6 +1165,7 @@
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SumitYesade22/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2232-adding-spaces-to-a-string](https://github.com/SumitYesade22/DSA/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SumitYesade22/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
