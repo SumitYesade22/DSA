@@ -1106,6 +1106,7 @@
 | [0768-partition-labels](https://github.com/SumitYesade22/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/SumitYesade22/DSA/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/SumitYesade22/DSA/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1583,6 +1584,7 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/SumitYesade22/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/SumitYesade22/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/SumitYesade22/DSA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/SumitYesade22/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Enumeration
 |  |
