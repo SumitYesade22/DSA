@@ -944,6 +944,7 @@
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SumitYesade22/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1189,6 +1190,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SumitYesade22/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3451-string-compression-iii](https://github.com/SumitYesade22/DSA/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -1535,6 +1537,7 @@
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SumitYesade22/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Randomized
