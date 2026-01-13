@@ -938,6 +938,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/SumitYesade22/DSA/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3046-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SumitYesade22/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
@@ -1182,6 +1183,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/SumitYesade22/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/3110-score-of-a-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SumitYesade22/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitYesade22/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/SumitYesade22/DSA/tree/master/3174-clear-digits) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
