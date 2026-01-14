@@ -1133,6 +1133,7 @@
 | [1143-longest-common-subsequence](https://github.com/SumitYesade22/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitYesade22/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumitYesade22/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/SumitYesade22/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1252-break-a-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1252-break-a-palindrome) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/SumitYesade22/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -1242,6 +1243,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SumitYesade22/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SumitYesade22/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/SumitYesade22/DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SumitYesade22/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
