@@ -470,6 +470,7 @@
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SumitYesade22/DSA/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/SumitYesade22/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/SumitYesade22/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
@@ -765,6 +766,7 @@
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SumitYesade22/DSA/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/SumitYesade22/DSA/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/SumitYesade22/DSA/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
@@ -1096,6 +1098,7 @@
 | [0394-decode-string](https://github.com/SumitYesade22/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SumitYesade22/DSA/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/SumitYesade22/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/SumitYesade22/DSA/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
