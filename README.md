@@ -284,6 +284,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-sort-the-people](https://github.com/SumitYesade22/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SumitYesade22/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -627,6 +628,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/SumitYesade22/DSA/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2418-sort-the-people](https://github.com/SumitYesade22/DSA/tree/master/2418-sort-the-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SumitYesade22/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -927,6 +929,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2351-first-letter-to-appear-twice](https://github.com/SumitYesade22/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2418-sort-the-people](https://github.com/SumitYesade22/DSA/tree/master/2418-sort-the-people) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SumitYesade22/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1190,6 +1193,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/SumitYesade22/DSA/tree/master/2278-percentage-of-letter-in-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SumitYesade22/DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2351-first-letter-to-appear-twice](https://github.com/SumitYesade22/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/SumitYesade22/DSA/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2678-number-of-senior-citizens](https://github.com/SumitYesade22/DSA/tree/master/2678-number-of-senior-citizens) |
