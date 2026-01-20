@@ -278,6 +278,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/SumitYesade22/DSA/tree/master/2358-number-of-ways-to-split-array) |
@@ -743,6 +744,7 @@
 | [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SumitYesade22/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SumitYesade22/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/SumitYesade22/DSA/tree/master/2428-equal-row-and-column-pairs) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SumitYesade22/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -1519,6 +1521,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2140-solving-questions-with-brainpower](https://github.com/SumitYesade22/DSA/tree/master/2140-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/SumitYesade22/DSA/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SumitYesade22/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1934,6 +1937,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitYesade22/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -1973,6 +1977,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumitYesade22/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Queue
 |  |
@@ -1997,6 +2002,7 @@
 | [1013-fibonacci-number](https://github.com/SumitYesade22/DSA/tree/master/1013-fibonacci-number) |
 | [1575-count-all-possible-routes](https://github.com/SumitYesade22/DSA/tree/master/1575-count-all-possible-routes) |
 | [1680-count-all-possible-routes](https://github.com/SumitYesade22/DSA/tree/master/1680-count-all-possible-routes) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2086,6 +2092,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/SumitYesade22/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SumitYesade22/DSA/tree/master/0210-course-schedule-ii) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -2151,4 +2158,8 @@
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SumitYesade22/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 <!---LeetCode Topics End-->
