@@ -204,6 +204,7 @@
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
 | [1512-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/SumitYesade22/DSA/tree/master/1534-count-good-triplets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -1645,6 +1646,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [1212-sequential-digits](https://github.com/SumitYesade22/DSA/tree/master/1212-sequential-digits) |
+| [1534-count-good-triplets](https://github.com/SumitYesade22/DSA/tree/master/1534-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
