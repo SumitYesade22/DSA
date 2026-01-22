@@ -120,6 +120,7 @@
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SumitYesade22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/SumitYesade22/DSA/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/SumitYesade22/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -488,6 +489,7 @@
 | [0507-perfect-number](https://github.com/SumitYesade22/DSA/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0537-complex-number-multiplication](https://github.com/SumitYesade22/DSA/tree/master/0537-complex-number-multiplication) |
+| [0598-range-addition-ii](https://github.com/SumitYesade22/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SumitYesade22/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0650-2-keys-keyboard](https://github.com/SumitYesade22/DSA/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/SumitYesade22/DSA/tree/master/0679-24-game) |
