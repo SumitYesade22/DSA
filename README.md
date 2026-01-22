@@ -92,6 +92,7 @@
 | [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/SumitYesade22/DSA/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SumitYesade22/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumitYesade22/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -567,6 +568,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/SumitYesade22/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SumitYesade22/DSA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/SumitYesade22/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumitYesade22/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SumitYesade22/DSA/tree/master/0455-assign-cookies) |
@@ -1304,6 +1306,7 @@
 | [0330-patching-array](https://github.com/SumitYesade22/DSA/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/SumitYesade22/DSA/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/SumitYesade22/DSA/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/SumitYesade22/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SumitYesade22/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/SumitYesade22/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/SumitYesade22/DSA/tree/master/0502-ipo) |
@@ -1472,6 +1475,7 @@
 | [0403-frog-jump](https://github.com/SumitYesade22/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/SumitYesade22/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/SumitYesade22/DSA/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
