@@ -103,6 +103,7 @@
 | [0474-ones-and-zeroes](https://github.com/SumitYesade22/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SumitYesade22/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/SumitYesade22/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
@@ -875,6 +876,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SumitYesade22/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/SumitYesade22/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/SumitYesade22/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/SumitYesade22/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/SumitYesade22/DSA/tree/master/0525-contiguous-array) |
@@ -1000,6 +1002,7 @@
 | [0338-counting-bits](https://github.com/SumitYesade22/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SumitYesade22/DSA/tree/master/0389-find-the-difference) |
+| [0491-non-decreasing-subsequences](https://github.com/SumitYesade22/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/SumitYesade22/DSA/tree/master/0784-letter-case-permutation) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SumitYesade22/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/SumitYesade22/DSA/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -2047,6 +2050,7 @@
 | [0131-palindrome-partitioning](https://github.com/SumitYesade22/DSA/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/SumitYesade22/DSA/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/SumitYesade22/DSA/tree/master/0257-binary-tree-paths) |
+| [0491-non-decreasing-subsequences](https://github.com/SumitYesade22/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SumitYesade22/DSA/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SumitYesade22/DSA/tree/master/0679-24-game) |
 | [0784-letter-case-permutation](https://github.com/SumitYesade22/DSA/tree/master/0784-letter-case-permutation) |
