@@ -465,6 +465,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/SumitYesade22/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/SumitYesade22/DSA/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/SumitYesade22/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SumitYesade22/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SumitYesade22/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/SumitYesade22/DSA/tree/master/0062-unique-paths) |
@@ -790,6 +791,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/SumitYesade22/DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SumitYesade22/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SumitYesade22/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
@@ -1106,6 +1108,7 @@
 | [0020-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SumitYesade22/DSA/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/SumitYesade22/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/SumitYesade22/DSA/tree/master/0072-edit-distance) |
