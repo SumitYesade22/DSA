@@ -547,6 +547,7 @@
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SumitYesade22/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SumitYesade22/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-vowels-game-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1242,6 +1243,7 @@
 | [3174-clear-digits](https://github.com/SumitYesade22/DSA/tree/master/3174-clear-digits) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3227-vowels-game-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SumitYesade22/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -2113,6 +2115,7 @@
 | [0486-predict-the-winner](https://github.com/SumitYesade22/DSA/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/SumitYesade22/DSA/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3227-vowels-game-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -2150,6 +2153,7 @@
 | [0319-bulb-switcher](https://github.com/SumitYesade22/DSA/tree/master/0319-bulb-switcher) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/SumitYesade22/DSA/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
