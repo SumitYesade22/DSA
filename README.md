@@ -161,6 +161,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [0976-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/SumitYesade22/DSA/tree/master/0981-delete-columns-to-make-sorted) |
@@ -755,6 +756,7 @@
 | [0498-diagonal-traverse](https://github.com/SumitYesade22/DSA/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-path-with-maximum-gold](https://github.com/SumitYesade22/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -915,6 +917,7 @@
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/SumitYesade22/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -1967,6 +1970,7 @@
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0872-leaf-similar-trees) |
 | [0904-leaf-similar-trees](https://github.com/SumitYesade22/DSA/tree/master/0904-leaf-similar-trees) |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -2017,6 +2021,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/SumitYesade22/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0801-is-graph-bipartite](https://github.com/SumitYesade22/DSA/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/SumitYesade22/DSA/tree/master/0871-keys-and-rooms) |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -2222,4 +2227,8 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
