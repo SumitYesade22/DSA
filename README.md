@@ -139,6 +139,7 @@
 | [0692-top-k-frequent-words](https://github.com/SumitYesade22/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/SumitYesade22/DSA/tree/master/0705-design-hashset) |
 | [0713-subarray-product-less-than-k](https://github.com/SumitYesade22/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SumitYesade22/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SumitYesade22/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -914,6 +915,7 @@
 | [0648-replace-words](https://github.com/SumitYesade22/DSA/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/SumitYesade22/DSA/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/SumitYesade22/DSA/tree/master/0705-design-hashset) |
 | [0768-partition-labels](https://github.com/SumitYesade22/DSA/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/SumitYesade22/DSA/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/SumitYesade22/DSA/tree/master/0782-jewels-and-stones) |
@@ -1438,6 +1440,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/SumitYesade22/DSA/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/SumitYesade22/DSA/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
@@ -1777,6 +1780,7 @@
 | [0328-odd-even-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/SumitYesade22/DSA/tree/master/0705-design-hashset) |
 | [0725-split-linked-list-in-parts](https://github.com/SumitYesade22/DSA/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/SumitYesade22/DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/SumitYesade22/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -2227,6 +2231,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SumitYesade22/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/SumitYesade22/DSA/tree/master/0705-design-hashset) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SumitYesade22/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
 |  |
