@@ -239,6 +239,7 @@
 | [1710-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/SumitYesade22/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
@@ -946,6 +947,7 @@
 | [1635-number-of-good-pairs](https://github.com/SumitYesade22/DSA/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/SumitYesade22/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SumitYesade22/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/SumitYesade22/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
@@ -1991,6 +1993,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SumitYesade22/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/SumitYesade22/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SumitYesade22/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
