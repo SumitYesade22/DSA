@@ -123,6 +123,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/SumitYesade22/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/SumitYesade22/DSA/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SumitYesade22/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0611-valid-triangle-number](https://github.com/SumitYesade22/DSA/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/SumitYesade22/DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -909,6 +910,7 @@
 | [0567-permutation-in-string](https://github.com/SumitYesade22/DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/SumitYesade22/DSA/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SumitYesade22/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/SumitYesade22/DSA/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SumitYesade22/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/SumitYesade22/DSA/tree/master/0645-set-mismatch) |
@@ -1175,6 +1177,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/SumitYesade22/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/SumitYesade22/DSA/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/SumitYesade22/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/SumitYesade22/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0648-replace-words](https://github.com/SumitYesade22/DSA/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/SumitYesade22/DSA/tree/master/0657-robot-return-to-origin) |
