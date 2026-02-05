@@ -356,6 +356,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
+| [3379-transformed-array](https://github.com/SumitYesade22/DSA/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SumitYesade22/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -861,6 +862,7 @@
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/SumitYesade22/DSA/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3498-reverse-degree-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
