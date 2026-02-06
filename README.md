@@ -371,6 +371,7 @@
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
@@ -686,6 +687,7 @@
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -1682,6 +1684,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SumitYesade22/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
 |  |
 | ------- |
