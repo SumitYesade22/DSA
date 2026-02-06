@@ -4,11 +4,14 @@ class Solution:
         n = len(nums)
 
         i = 0
-        ans = 0   
+        j = 0
+        ans = 0   # max valid window size
 
-        for j in range(n):
-            while nums[i] * k < nums[j]:
+        while j < n:
+            if nums[i] * k >= nums[j]:
+                ans = max(ans, j - i + 1)  # window size
+                j += 1
+            else:
                 i += 1
-            ans = max(ans, j - i + 1)
 
         return n - ans
