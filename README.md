@@ -351,6 +351,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
@@ -742,6 +743,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1015,6 +1017,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/SumitYesade22/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/SumitYesade22/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -1683,6 +1686,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SumitYesade22/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Recursion
