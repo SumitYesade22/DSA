@@ -315,6 +315,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SumitYesade22/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2551-put-marbles-in-bags](https://github.com/SumitYesade22/DSA/tree/master/2551-put-marbles-in-bags) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/SumitYesade22/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -671,6 +672,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SumitYesade22/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2551-put-marbles-in-bags](https://github.com/SumitYesade22/DSA/tree/master/2551-put-marbles-in-bags) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -737,6 +739,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-put-marbles-in-bags](https://github.com/SumitYesade22/DSA/tree/master/2551-put-marbles-in-bags) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/SumitYesade22/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/SumitYesade22/DSA/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -1430,6 +1433,7 @@
 | [2405-optimal-partition-of-string](https://github.com/SumitYesade22/DSA/tree/master/2405-optimal-partition-of-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/SumitYesade22/DSA/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SumitYesade22/DSA/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-put-marbles-in-bags](https://github.com/SumitYesade22/DSA/tree/master/2551-put-marbles-in-bags) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SumitYesade22/DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2689-rearranging-fruits](https://github.com/SumitYesade22/DSA/tree/master/2689-rearranging-fruits) |
