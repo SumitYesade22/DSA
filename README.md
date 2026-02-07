@@ -250,6 +250,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SumitYesade22/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1792-maximum-average-pass-ratio](https://github.com/SumitYesade22/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [1813-maximum-erasure-value](https://github.com/SumitYesade22/DSA/tree/master/1813-maximum-erasure-value) |
 | [1817-finding-the-users-active-minutes](https://github.com/SumitYesade22/DSA/tree/master/1817-finding-the-users-active-minutes) |
 | [1829-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1829-maximum-units-on-a-truck) |
@@ -726,6 +727,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-maximum-average-pass-ratio](https://github.com/SumitYesade22/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1408,6 +1410,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-maximum-average-pass-ratio](https://github.com/SumitYesade22/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [1829-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
