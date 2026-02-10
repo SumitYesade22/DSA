@@ -377,6 +377,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -818,6 +819,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/SumitYesade22/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/SumitYesade22/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1035,6 +1037,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
+| [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SumitYesade22/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -1781,6 +1784,7 @@
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SumitYesade22/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [4015-split-array-with-minimum-difference](https://github.com/SumitYesade22/DSA/tree/master/4015-split-array-with-minimum-difference) |
 ## Trie
 |  |
@@ -2233,6 +2237,7 @@
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
+| [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
