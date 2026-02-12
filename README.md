@@ -1044,6 +1044,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
+| [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/SumitYesade22/DSA/tree/master/4107-find-missing-elements) |
 ## Bit Manipulation
@@ -1478,6 +1479,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
+| [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1514,6 +1516,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/SumitYesade22/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/SumitYesade22/DSA/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
+| [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -2109,6 +2112,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SumitYesade22/DSA/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Memoization
 |  |
 | ------- |
