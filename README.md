@@ -759,6 +759,7 @@
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3815-design-auction-system](https://github.com/SumitYesade22/DSA/tree/master/3815-design-auction-system) |
 ## Matrix
 |  |
 | ------- |
@@ -1046,6 +1047,7 @@
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
+| [3815-design-auction-system](https://github.com/SumitYesade22/DSA/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4107-find-missing-elements](https://github.com/SumitYesade22/DSA/tree/master/4107-find-missing-elements) |
@@ -1484,6 +1486,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
+| [3815-design-auction-system](https://github.com/SumitYesade22/DSA/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
 ## Monotonic Stack
 |  |
@@ -2274,6 +2277,7 @@
 | [0456-132-pattern](https://github.com/SumitYesade22/DSA/tree/master/0456-132-pattern) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3815-design-auction-system](https://github.com/SumitYesade22/DSA/tree/master/3815-design-auction-system) |
 ## Merge Sort
 |  |
 | ------- |
