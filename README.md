@@ -1046,6 +1046,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SumitYesade22/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
+| [3803-count-residue-prefixes](https://github.com/SumitYesade22/DSA/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3815-design-auction-system](https://github.com/SumitYesade22/DSA/tree/master/3815-design-auction-system) |
 | [3829-design-ride-sharing-system](https://github.com/SumitYesade22/DSA/tree/master/3829-design-ride-sharing-system) |
@@ -1310,6 +1311,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SumitYesade22/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/SumitYesade22/DSA/tree/master/3794-reverse-string-prefix) |
+| [3803-count-residue-prefixes](https://github.com/SumitYesade22/DSA/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/SumitYesade22/DSA/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
