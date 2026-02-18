@@ -381,6 +381,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/SumitYesade22/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
@@ -697,6 +698,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/SumitYesade22/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/SumitYesade22/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
