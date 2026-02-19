@@ -378,6 +378,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3697-compute-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/3697-compute-decimal-representation) |
 | [3719-longest-balanced-subarray-i](https://github.com/SumitYesade22/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -573,6 +574,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3697-compute-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/3697-compute-decimal-representation) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
