@@ -372,6 +372,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -698,6 +699,7 @@
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1045,6 +1047,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
