@@ -259,6 +259,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1920-build-array-from-permutation](https://github.com/SumitYesade22/DSA/tree/master/1920-build-array-from-permutation) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -856,6 +857,7 @@
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/SumitYesade22/DSA/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1920-build-array-from-permutation](https://github.com/SumitYesade22/DSA/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SumitYesade22/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
