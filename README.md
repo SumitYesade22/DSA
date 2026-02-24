@@ -1914,6 +1914,7 @@
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SumitYesade22/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -1996,6 +1997,7 @@
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SumitYesade22/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -2064,6 +2066,7 @@
 | [0975-range-sum-of-bst](https://github.com/SumitYesade22/DSA/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/SumitYesade22/DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SumitYesade22/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/SumitYesade22/DSA/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1035-cousins-in-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SumitYesade22/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
