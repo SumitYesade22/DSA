@@ -1278,6 +1278,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SumitYesade22/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SumitYesade22/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SumitYesade22/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/SumitYesade22/DSA/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SumitYesade22/DSA/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/SumitYesade22/DSA/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -1452,6 +1453,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/SumitYesade22/DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SumitYesade22/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SumitYesade22/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
