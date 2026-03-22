@@ -187,6 +187,7 @@
 | [1046-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1046-last-stone-weight) |
 | [1063-best-sightseeing-pair](https://github.com/SumitYesade22/DSA/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/SumitYesade22/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/SumitYesade22/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -643,6 +644,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/SumitYesade22/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1014-k-closest-points-to-origin](https://github.com/SumitYesade22/DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/SumitYesade22/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -974,6 +976,7 @@
 | [0997-find-the-town-judge](https://github.com/SumitYesade22/DSA/tree/master/0997-find-the-town-judge) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/SumitYesade22/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitYesade22/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -2238,6 +2241,7 @@
 | [0274-h-index](https://github.com/SumitYesade22/DSA/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/SumitYesade22/DSA/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/SumitYesade22/DSA/tree/master/0948-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 ## Game Theory
 |  |
