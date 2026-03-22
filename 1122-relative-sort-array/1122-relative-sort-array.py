@@ -2,7 +2,7 @@ class Solution:
     def relativeSortArray(self, arr1, arr2):
         from collections import defaultdict
 
-        count_map = defaultdict(int)
+        count_map = dict()
         remaining = []
         result = []
 
