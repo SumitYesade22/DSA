@@ -351,6 +351,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SumitYesade22/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3046-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SumitYesade22/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/SumitYesade22/DSA/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/SumitYesade22/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/SumitYesade22/DSA/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
