@@ -396,6 +396,7 @@
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SumitYesade22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitYesade22/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4000-count-bowl-subarrays](https://github.com/SumitYesade22/DSA/tree/master/4000-count-bowl-subarrays) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/4012-earliest-time-to-finish-one-task) |
@@ -586,6 +587,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3697-compute-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/3697-compute-decimal-representation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SumitYesade22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/SumitYesade22/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
