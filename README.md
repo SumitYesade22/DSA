@@ -193,6 +193,7 @@
 | [1177-can-make-palindrome-from-substring](https://github.com/SumitYesade22/DSA/tree/master/1177-can-make-palindrome-from-substring) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SumitYesade22/DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SumitYesade22/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/SumitYesade22/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1256-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -802,6 +803,7 @@
 | [0566-reshape-the-matrix](https://github.com/SumitYesade22/DSA/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/SumitYesade22/DSA/tree/master/0695-max-area-of-island) |
 | [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SumitYesade22/DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-path-with-maximum-gold](https://github.com/SumitYesade22/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -865,6 +867,7 @@
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/SumitYesade22/DSA/tree/master/0983-validate-stack-sequences) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/SumitYesade22/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1222-queens-that-can-attack-the-king](https://github.com/SumitYesade22/DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SumitYesade22/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/SumitYesade22/DSA/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
