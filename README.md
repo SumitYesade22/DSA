@@ -1198,6 +1198,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/SumitYesade22/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/SumitYesade22/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SumitYesade22/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -1360,6 +1361,7 @@
 | [3803-count-residue-prefixes](https://github.com/SumitYesade22/DSA/tree/master/3803-count-residue-prefixes) |
 | [3813-vowel-consonant-score](https://github.com/SumitYesade22/DSA/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3884-first-matching-character-from-both-ends](https://github.com/SumitYesade22/DSA/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
 | ------- |
