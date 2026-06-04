@@ -385,6 +385,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/SumitYesade22/DSA/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SumitYesade22/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
@@ -450,6 +451,7 @@
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
@@ -716,6 +718,7 @@
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SumitYesade22/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/SumitYesade22/DSA/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1195,6 +1198,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SumitYesade22/DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/SumitYesade22/DSA/tree/master/3195-separate-black-and-white-balls) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SumitYesade22/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/SumitYesade22/DSA/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -1518,6 +1522,7 @@
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/SumitYesade22/DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/SumitYesade22/DSA/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/SumitYesade22/DSA/tree/master/4078-maximum-alternating-sum-of-squares) |
