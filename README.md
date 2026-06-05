@@ -1069,6 +1069,7 @@
 | [3046-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SumitYesade22/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SumitYesade22/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1349,6 +1350,7 @@
 | [2942-find-words-containing-character](https://github.com/SumitYesade22/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SumitYesade22/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/SumitYesade22/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SumitYesade22/DSA/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SumitYesade22/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3174-clear-digits](https://github.com/SumitYesade22/DSA/tree/master/3174-clear-digits) |
