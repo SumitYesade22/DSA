@@ -1348,6 +1348,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/SumitYesade22/DSA/tree/master/2810-faulty-keyboard) |
 | [2825-minimize-string-length](https://github.com/SumitYesade22/DSA/tree/master/2825-minimize-string-length) |
+| [2833-furthest-point-from-origin](https://github.com/SumitYesade22/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/SumitYesade22/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/3110-score-of-a-string) |
@@ -1734,6 +1735,7 @@
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/SumitYesade22/DSA/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/SumitYesade22/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/SumitYesade22/DSA/tree/master/2448-count-number-of-bad-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/SumitYesade22/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SumitYesade22/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/SumitYesade22/DSA/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
