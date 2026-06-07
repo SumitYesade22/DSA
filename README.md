@@ -321,6 +321,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitYesade22/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SumitYesade22/DSA/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitYesade22/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SumitYesade22/DSA/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2540-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SumitYesade22/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -1345,6 +1346,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SumitYesade22/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/SumitYesade22/DSA/tree/master/2470-removing-stars-from-a-string) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/SumitYesade22/DSA/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SumitYesade22/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2678-number-of-senior-citizens](https://github.com/SumitYesade22/DSA/tree/master/2678-number-of-senior-citizens) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SumitYesade22/DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2785-sort-vowels-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/2785-sort-vowels-in-a-string) |
