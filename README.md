@@ -404,6 +404,7 @@
 | [3804-number-of-centered-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3804-number-of-centered-subarrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SumitYesade22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitYesade22/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/SumitYesade22/DSA/tree/master/3917-count-indices-with-opposite-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/SumitYesade22/DSA/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4000-count-bowl-subarrays](https://github.com/SumitYesade22/DSA/tree/master/4000-count-bowl-subarrays) |
 | [4012-earliest-time-to-finish-one-task](https://github.com/SumitYesade22/DSA/tree/master/4012-earliest-time-to-finish-one-task) |
