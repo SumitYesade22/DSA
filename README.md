@@ -599,6 +599,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SumitYesade22/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SumitYesade22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitYesade22/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SumitYesade22/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -1843,6 +1844,7 @@
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SumitYesade22/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
