@@ -373,6 +373,7 @@
 | [3379-transformed-array](https://github.com/SumitYesade22/DSA/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SumitYesade22/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/SumitYesade22/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitYesade22/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3430-count-days-without-meetings](https://github.com/SumitYesade22/DSA/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SumitYesade22/DSA/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/SumitYesade22/DSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -841,6 +842,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SumitYesade22/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/SumitYesade22/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitYesade22/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SumitYesade22/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SumitYesade22/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/SumitYesade22/DSA/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -1701,6 +1703,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/SumitYesade22/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitYesade22/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/SumitYesade22/DSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/SumitYesade22/DSA/tree/master/3494-minimum-cost-for-cutting-cake-i) |
