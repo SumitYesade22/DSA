@@ -896,6 +896,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SumitYesade22/DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SumitYesade22/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/SumitYesade22/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SumitYesade22/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/SumitYesade22/DSA/tree/master/2169-simple-bank-system) |
@@ -1337,6 +1338,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SumitYesade22/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SumitYesade22/DSA/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/SumitYesade22/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/SumitYesade22/DSA/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SumitYesade22/DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SumitYesade22/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
