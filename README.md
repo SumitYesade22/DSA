@@ -90,6 +90,7 @@
 | [0377-combination-sum-iv](https://github.com/SumitYesade22/DSA/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SumitYesade22/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/SumitYesade22/DSA/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/SumitYesade22/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/SumitYesade22/DSA/tree/master/0414-third-maximum-number) |
@@ -534,6 +535,7 @@
 | [0342-power-of-four](https://github.com/SumitYesade22/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SumitYesade22/DSA/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/SumitYesade22/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/SumitYesade22/DSA/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/SumitYesade22/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/SumitYesade22/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/SumitYesade22/DSA/tree/master/0445-add-two-numbers-ii) |
@@ -1647,6 +1649,7 @@
 | [0343-integer-break](https://github.com/SumitYesade22/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/SumitYesade22/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/SumitYesade22/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/SumitYesade22/DSA/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/SumitYesade22/DSA/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/SumitYesade22/DSA/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/SumitYesade22/DSA/tree/master/0416-partition-equal-subset-sum) |
