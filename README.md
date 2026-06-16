@@ -228,6 +228,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SumitYesade22/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1575-count-all-possible-routes](https://github.com/SumitYesade22/DSA/tree/master/1575-count-all-possible-routes) |
@@ -829,6 +830,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SumitYesade22/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SumitYesade22/DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1972-rotating-the-box](https://github.com/SumitYesade22/DSA/tree/master/1972-rotating-the-box) |
@@ -2163,6 +2165,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SumitYesade22/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SumitYesade22/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -2210,6 +2213,7 @@
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SumitYesade22/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SumitYesade22/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SumitYesade22/DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SumitYesade22/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -2419,4 +2423,5 @@
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
