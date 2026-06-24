@@ -201,6 +201,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SumitYesade22/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1306-jump-game-iii](https://github.com/SumitYesade22/DSA/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/SumitYesade22/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -2163,6 +2164,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/SumitYesade22/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/SumitYesade22/DSA/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SumitYesade22/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/SumitYesade22/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1382-balance-a-binary-search-tree](https://github.com/SumitYesade22/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -2213,6 +2215,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SumitYesade22/DSA/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/SumitYesade22/DSA/tree/master/1302-deepest-leaves-sum) |
+| [1306-jump-game-iii](https://github.com/SumitYesade22/DSA/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SumitYesade22/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
