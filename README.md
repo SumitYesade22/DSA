@@ -207,6 +207,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/SumitYesade22/DSA/tree/master/1340-jump-game-v) |
+| [1345-jump-game-iv](https://github.com/SumitYesade22/DSA/tree/master/1345-jump-game-iv) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -1026,6 +1027,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1345-jump-game-iv](https://github.com/SumitYesade22/DSA/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -2220,6 +2222,7 @@
 | [1302-deepest-leaves-sum](https://github.com/SumitYesade22/DSA/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/SumitYesade22/DSA/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/SumitYesade22/DSA/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1345-jump-game-iv](https://github.com/SumitYesade22/DSA/tree/master/1345-jump-game-iv) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
