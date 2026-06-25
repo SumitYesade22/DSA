@@ -3,7 +3,7 @@ class Solution:
         self.m=len(nums1)
         self.n=len(nums2)
         self.inf=-10000000
-        self.t=[[self.inf]*501 for i in range(501)]
+        self.t=[[self.inf]*500 for i in range(500)]
         ans=self.solve(nums1,nums2,0,0)
         return ans
     def solve(self,nums1,nums2,i,j):
