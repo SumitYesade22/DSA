@@ -220,6 +220,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1436-destination-city](https://github.com/SumitYesade22/DSA/tree/master/1436-destination-city) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/SumitYesade22/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SumitYesade22/DSA/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1703,6 +1704,7 @@
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SumitYesade22/DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/SumitYesade22/DSA/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/SumitYesade22/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/SumitYesade22/DSA/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1503-reducing-dishes](https://github.com/SumitYesade22/DSA/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/SumitYesade22/DSA/tree/master/1511-count-number-of-teams) |
