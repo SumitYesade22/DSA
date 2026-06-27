@@ -192,6 +192,7 @@
 | [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/SumitYesade22/DSA/tree/master/1127-last-stone-weight) |
 | [1138-grumpy-bookstore-owner](https://github.com/SumitYesade22/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SumitYesade22/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/SumitYesade22/DSA/tree/master/1177-can-make-palindrome-from-substring) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1207-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -1020,6 +1021,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1079-letter-tile-possibilities](https://github.com/SumitYesade22/DSA/tree/master/1079-letter-tile-possibilities) |
 | [1122-relative-sort-array](https://github.com/SumitYesade22/DSA/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SumitYesade22/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/SumitYesade22/DSA/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitYesade22/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SumitYesade22/DSA/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1311,6 +1313,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SumitYesade22/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SumitYesade22/DSA/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SumitYesade22/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1170-shortest-common-supersequence](https://github.com/SumitYesade22/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1177-can-make-palindrome-from-substring](https://github.com/SumitYesade22/DSA/tree/master/1177-can-make-palindrome-from-substring) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitYesade22/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -1747,6 +1750,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/SumitYesade22/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1079-letter-tile-possibilities](https://github.com/SumitYesade22/DSA/tree/master/1079-letter-tile-possibilities) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/SumitYesade22/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitYesade22/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/SumitYesade22/DSA/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/SumitYesade22/DSA/tree/master/1255-maximum-score-words-formed-by-letters) |
