@@ -579,6 +579,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/SumitYesade22/DSA/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/SumitYesade22/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SumitYesade22/DSA/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/SumitYesade22/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1349,6 +1350,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/SumitYesade22/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SumitYesade22/DSA/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SumitYesade22/DSA/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/SumitYesade22/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/SumitYesade22/DSA/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/SumitYesade22/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/SumitYesade22/DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -1531,6 +1533,7 @@
 | [1792-maximum-average-pass-ratio](https://github.com/SumitYesade22/DSA/tree/master/1792-maximum-average-pass-ratio) |
 | [1829-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SumitYesade22/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1903-largest-odd-number-in-string](https://github.com/SumitYesade22/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
