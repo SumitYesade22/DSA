@@ -272,6 +272,7 @@
 | [1848-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SumitYesade22/DSA/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SumitYesade22/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/SumitYesade22/DSA/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [1920-build-array-from-permutation](https://github.com/SumitYesade22/DSA/tree/master/1920-build-array-from-permutation) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -706,6 +707,7 @@
 | [1777-determine-if-two-strings-are-close](https://github.com/SumitYesade22/DSA/tree/master/1777-determine-if-two-strings-are-close) |
 | [1829-maximum-units-on-a-truck](https://github.com/SumitYesade22/DSA/tree/master/1829-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SumitYesade22/DSA/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SumitYesade22/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitYesade22/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/SumitYesade22/DSA/tree/master/1970-sorting-the-sentence) |
