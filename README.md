@@ -210,6 +210,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/SumitYesade22/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/SumitYesade22/DSA/tree/master/1345-jump-game-iv) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SumitYesade22/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/SumitYesade22/DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -457,6 +458,7 @@
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1321-get-equal-substrings-within-budget](https://github.com/SumitYesade22/DSA/tree/master/1321-get-equal-substrings-within-budget) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SumitYesade22/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -686,6 +688,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/SumitYesade22/DSA/tree/master/1340-jump-game-v) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SumitYesade22/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -1039,6 +1042,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitYesade22/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/SumitYesade22/DSA/tree/master/1345-jump-game-iv) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SumitYesade22/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/SumitYesade22/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/SumitYesade22/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/SumitYesade22/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1220,6 +1224,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/SumitYesade22/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/SumitYesade22/DSA/tree/master/0985-bag-of-tokens) |
 | [1002-maximum-width-ramp](https://github.com/SumitYesade22/DSA/tree/master/1002-maximum-width-ramp) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SumitYesade22/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SumitYesade22/DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/SumitYesade22/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/SumitYesade22/DSA/tree/master/1768-merge-strings-alternately) |
