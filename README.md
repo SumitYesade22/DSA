@@ -260,6 +260,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/SumitYesade22/DSA/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/SumitYesade22/DSA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/SumitYesade22/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/SumitYesade22/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/SumitYesade22/DSA/tree/master/1755-defuse-the-bomb) |
 | [1762-furthest-building-you-can-reach](https://github.com/SumitYesade22/DSA/tree/master/1762-furthest-building-you-can-reach) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/SumitYesade22/DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
