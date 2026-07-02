@@ -605,6 +605,7 @@
 | [2652-sum-multiples](https://github.com/SumitYesade22/DSA/tree/master/2652-sum-multiples) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2843-count-symmetric-integers](https://github.com/SumitYesade22/DSA/tree/master/2843-count-symmetric-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/SumitYesade22/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/SumitYesade22/DSA/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -1882,6 +1883,7 @@
 | [1534-count-good-triplets](https://github.com/SumitYesade22/DSA/tree/master/1534-count-good-triplets) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SumitYesade22/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2843-count-symmetric-integers](https://github.com/SumitYesade22/DSA/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SumitYesade22/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SumitYesade22/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
