@@ -234,6 +234,7 @@
 | [1534-count-good-triplets](https://github.com/SumitYesade22/DSA/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/SumitYesade22/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SumitYesade22/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1550-three-consecutive-odds](https://github.com/SumitYesade22/DSA/tree/master/1550-three-consecutive-odds) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SumitYesade22/DSA/tree/master/1552-build-an-array-with-stack-operations) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SumitYesade22/DSA/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
