@@ -295,6 +295,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2089-maximum-matrix-sum](https://github.com/SumitYesade22/DSA/tree/master/2089-maximum-matrix-sum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/SumitYesade22/DSA/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SumitYesade22/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -724,6 +725,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SumitYesade22/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/SumitYesade22/DSA/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2126-destroying-asteroids](https://github.com/SumitYesade22/DSA/tree/master/2126-destroying-asteroids) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SumitYesade22/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1081,6 +1083,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SumitYesade22/DSA/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/SumitYesade22/DSA/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/SumitYesade22/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/SumitYesade22/DSA/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2119-minimum-number-of-operations-to-make-array-continuous](https://github.com/SumitYesade22/DSA/tree/master/2119-minimum-number-of-operations-to-make-array-continuous) |
@@ -1868,6 +1871,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/SumitYesade22/DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/SumitYesade22/DSA/tree/master/2050-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -1887,6 +1891,7 @@
 | [1534-count-good-triplets](https://github.com/SumitYesade22/DSA/tree/master/1534-count-good-triplets) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SumitYesade22/DSA/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2094-finding-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2843-count-symmetric-integers](https://github.com/SumitYesade22/DSA/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SumitYesade22/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SumitYesade22/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
