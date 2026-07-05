@@ -203,6 +203,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SumitYesade22/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/SumitYesade22/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/SumitYesade22/DSA/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1306-jump-game-iii](https://github.com/SumitYesade22/DSA/tree/master/1306-jump-game-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/SumitYesade22/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -855,6 +856,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1222-queens-that-can-attack-the-king](https://github.com/SumitYesade22/DSA/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1301-number-of-paths-with-max-score](https://github.com/SumitYesade22/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-path-with-maximum-gold](https://github.com/SumitYesade22/DSA/tree/master/1331-path-with-maximum-gold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1735,6 +1737,7 @@
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/SumitYesade22/DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/SumitYesade22/DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1290-make-array-strictly-increasing](https://github.com/SumitYesade22/DSA/tree/master/1290-make-array-strictly-increasing) |
+| [1301-number-of-paths-with-max-score](https://github.com/SumitYesade22/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/SumitYesade22/DSA/tree/master/1340-jump-game-v) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/SumitYesade22/DSA/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1418-fair-distribution-of-cookies](https://github.com/SumitYesade22/DSA/tree/master/1418-fair-distribution-of-cookies) |
