@@ -633,6 +633,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/SumitYesade22/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SumitYesade22/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SumitYesade22/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/SumitYesade22/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/4051-remove-zeros-in-decimal-representation) |
 | [4101-maximum-product-of-three-elements-after-one-replacement](https://github.com/SumitYesade22/DSA/tree/master/4101-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -1442,6 +1443,7 @@
 | [3813-vowel-consonant-score](https://github.com/SumitYesade22/DSA/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/SumitYesade22/DSA/tree/master/3884-first-matching-character-from-both-ends) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/SumitYesade22/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Stack
 |  |
 | ------- |
@@ -1821,6 +1823,7 @@
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SumitYesade22/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/SumitYesade22/DSA/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Randomized
 |  |
 | ------- |
