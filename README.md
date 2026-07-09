@@ -406,6 +406,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitYesade22/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -482,6 +483,7 @@
 | [2634-minimum-common-value](https://github.com/SumitYesade22/DSA/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SumitYesade22/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SumitYesade22/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
@@ -1142,6 +1144,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SumitYesade22/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SumitYesade22/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/SumitYesade22/DSA/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/SumitYesade22/DSA/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3668-restore-finishing-order](https://github.com/SumitYesade22/DSA/tree/master/3668-restore-finishing-order) |
@@ -2484,10 +2487,12 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
