@@ -1041,6 +1041,7 @@
 | [0797-rabbits-in-forest](https://github.com/SumitYesade22/DSA/tree/master/0797-rabbits-in-forest) |
 | [0819-most-common-word](https://github.com/SumitYesade22/DSA/tree/master/0819-most-common-word) |
 | [0843-binary-trees-with-factors](https://github.com/SumitYesade22/DSA/tree/master/0843-binary-trees-with-factors) |
+| [0859-buddy-strings](https://github.com/SumitYesade22/DSA/tree/master/0859-buddy-strings) |
 | [0876-hand-of-straights](https://github.com/SumitYesade22/DSA/tree/master/0876-hand-of-straights) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/SumitYesade22/DSA/tree/master/0940-fruit-into-baskets) |
@@ -1337,6 +1338,7 @@
 | [0784-letter-case-permutation](https://github.com/SumitYesade22/DSA/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/SumitYesade22/DSA/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/SumitYesade22/DSA/tree/master/0819-most-common-word) |
+| [0859-buddy-strings](https://github.com/SumitYesade22/DSA/tree/master/0859-buddy-strings) |
 | [0868-push-dominoes](https://github.com/SumitYesade22/DSA/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/SumitYesade22/DSA/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SumitYesade22/DSA/tree/master/0920-uncommon-words-from-two-sentences) |
