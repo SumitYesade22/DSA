@@ -386,6 +386,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SumitYesade22/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/SumitYesade22/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/SumitYesade22/DSA/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
@@ -625,6 +626,7 @@
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-vowels-game-in-a-string](https://github.com/SumitYesade22/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3336-water-bottles-ii](https://github.com/SumitYesade22/DSA/tree/master/3336-water-bottles-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SumitYesade22/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3374-count-alternating-subarrays](https://github.com/SumitYesade22/DSA/tree/master/3374-count-alternating-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1778,6 +1780,7 @@
 | [2562-count-ways-to-build-good-strings](https://github.com/SumitYesade22/DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/SumitYesade22/DSA/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SumitYesade22/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitYesade22/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/SumitYesade22/DSA/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/SumitYesade22/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -1934,6 +1937,7 @@
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SumitYesade22/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SumitYesade22/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prefix Sum
 |  |
