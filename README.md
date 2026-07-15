@@ -632,6 +632,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SumitYesade22/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SumitYesade22/DSA/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SumitYesade22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3697-compute-decimal-representation](https://github.com/SumitYesade22/DSA/tree/master/3697-compute-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SumitYesade22/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SumitYesade22/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1943,6 +1944,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SumitYesade22/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SumitYesade22/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SumitYesade22/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/SumitYesade22/DSA/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Prefix Sum
 |  |
