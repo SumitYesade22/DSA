@@ -2262,6 +2262,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/SumitYesade22/DSA/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -2311,6 +2312,7 @@
 | [2103-find-all-groups-of-farmland](https://github.com/SumitYesade22/DSA/tree/master/2103-find-all-groups-of-farmland) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumitYesade22/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
 | ------- |
@@ -2510,6 +2512,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -2517,5 +2520,6 @@
 | [0959-regions-cut-by-slashes](https://github.com/SumitYesade22/DSA/tree/master/0959-regions-cut-by-slashes) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SumitYesade22/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
