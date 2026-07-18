@@ -1295,6 +1295,7 @@
 | [0043-multiply-strings](https://github.com/SumitYesade22/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/SumitYesade22/DSA/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/SumitYesade22/DSA/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/SumitYesade22/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SumitYesade22/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SumitYesade22/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/SumitYesade22/DSA/tree/master/0091-decode-ways) |
@@ -1468,6 +1469,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SumitYesade22/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SumitYesade22/DSA/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SumitYesade22/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SumitYesade22/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SumitYesade22/DSA/tree/master/0094-binary-tree-inorder-traversal) |
