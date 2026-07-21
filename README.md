@@ -1457,6 +1457,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/SumitYesade22/DSA/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SumitYesade22/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SumitYesade22/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SumitYesade22/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SumitYesade22/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/SumitYesade22/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SumitYesade22/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -1937,6 +1938,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SumitYesade22/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SumitYesade22/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3210-count-beautiful-substrings-i](https://github.com/SumitYesade22/DSA/tree/master/3210-count-beautiful-substrings-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/SumitYesade22/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SumitYesade22/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SumitYesade22/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SumitYesade22/DSA/tree/master/3799-unique-3-digit-even-numbers) |
