@@ -287,6 +287,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/SumitYesade22/DSA/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SumitYesade22/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1972-rotating-the-box](https://github.com/SumitYesade22/DSA/tree/master/1972-rotating-the-box) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SumitYesade22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SumitYesade22/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SumitYesade22/DSA/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -603,6 +604,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/SumitYesade22/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/SumitYesade22/DSA/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SumitYesade22/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SumitYesade22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SumitYesade22/DSA/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/SumitYesade22/DSA/tree/master/2050-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/SumitYesade22/DSA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -1948,6 +1950,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/SumitYesade22/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/SumitYesade22/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SumitYesade22/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SumitYesade22/DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SumitYesade22/DSA/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SumitYesade22/DSA/tree/master/2716-prime-subtraction-operation) |
