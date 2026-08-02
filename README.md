@@ -388,6 +388,7 @@
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SumitYesade22/DSA/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/SumitYesade22/DSA/tree/master/3262-find-polygon-with-the-largest-perimeter) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3324-split-the-array](https://github.com/SumitYesade22/DSA/tree/master/3324-split-the-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -846,6 +847,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
 | [2974-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/2974-minimum-number-game) |
 | [3226-minimum-number-game](https://github.com/SumitYesade22/DSA/tree/master/3226-minimum-number-game) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SumitYesade22/DSA/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SumitYesade22/DSA/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/SumitYesade22/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -902,6 +904,7 @@
 | [2728-sum-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/2728-sum-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/SumitYesade22/DSA/tree/master/2906-construct-product-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/SumitYesade22/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/SumitYesade22/DSA/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SumitYesade22/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SumitYesade22/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -2339,6 +2342,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SumitYesade22/DSA/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -2495,6 +2499,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/SumitYesade22/DSA/tree/master/0744-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Geometry
 |  |
 | ------- |
@@ -2539,6 +2544,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/SumitYesade22/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SumitYesade22/DSA/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/SumitYesade22/DSA/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SumitYesade22/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SumitYesade22/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/SumitYesade22/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
